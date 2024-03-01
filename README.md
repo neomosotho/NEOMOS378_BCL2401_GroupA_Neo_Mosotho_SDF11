@@ -17,6 +17,10 @@ HTML5
 CSS3 with Tailwind
 Javascript
 
+**What I learned:**
+I learned a lot doing this project.
+I got to polish my skills in responsive design and javascript.
+
 **Challenges and Expeience:**
 The project overall was fun and challenging to do.
 I had some small challenges here and there but managed to complete it in the end.
